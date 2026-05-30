@@ -1,5 +1,5 @@
 # 国内支付 / 银行 / 小程序 / 常用国内服务直连规则集
-# 用法：RULE-SET,https://raw.githubusercontent.com/你的用户名/你的仓库/main/sr_cn_pay_bank_miniapp_direct.module,DIRECT
+# 用法：RULE-SET,https://github.com/keliangwei98-crypto/summer_shadowrocket/blob/main/sr_cn_pay_bank_miniapp_direct.module,DIRECT
 # 注意：本文件为 RULE-SET 外部规则集格式，规则行不写 DIRECT，由主配置里的 RULE-SET 统一指定 DIRECT
 
 # 国内支付
